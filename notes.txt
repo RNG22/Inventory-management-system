@@ -1,0 +1,12 @@
+1.ng add @angular/material
+2.json-server --watch db.json       
+3.import matbutton,maticon,mattoolbar in appmodule,
+4.in app html add toolbar from ngular material
+5.on clicking add product aadd dialog onclick function and 
+6.create dialog component ionic g c dialog
+7.add ts inside  app.ts
+8.whatever written inside dialog component will be visible trhrough aapp.ts file
+
+9.import forfield module and add html of form inside dialog component
+10.iterate over radiobuttons using ngfor and declaring a array with values freshnessList 
+11.

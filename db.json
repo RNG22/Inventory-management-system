@@ -1,0 +1,116 @@
+{
+  "productList": [
+    {
+      "productName": "rr",
+      "category": "option3",
+      "freshness": "brand new",
+      "price": 23,
+      "comment": "ss",
+      "date": "2024-03-11T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "bfb",
+      "category": "option1",
+      "freshness": "brand new",
+      "price": 1,
+      "comment": "r",
+      "date": "2024-03-12T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "dsf",
+      "category": "option3",
+      "freshness": "brand new",
+      "price": 2,
+      "comment": "l",
+      "date": "2024-03-01T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "iiii",
+      "category": "option1",
+      "freshness": "second hand",
+      "price": 3,
+      "comment": "ppp",
+      "date": "2024-03-21T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "uuuuit5tr5rt5",
+      "category": "option1",
+      "freshness": "brand new",
+      "price": 3,
+      "comment": "66",
+      "date": "2024-03-12T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "qqq",
+      "category": "option2",
+      "freshness": "brand new",
+      "price": 2,
+      "comment": "qq",
+      "date": "2024-03-18T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "knife",
+      "category": "option1",
+      "freshness": "second hand",
+      "price": 4,
+      "comment": "u",
+      "date": "2024-03-11T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "oranges",
+      "category": "option1",
+      "freshness": "brand new",
+      "price": 0,
+      "comment": "test",
+      "date": "2024-03-11T18:30:00.000Z",
+      "adresses": [
+        {
+          "address1": "uu",
+          "address2": "oo",
+          "pinCode": 988
+        }
+      ],
+      "id": 14
+    }
+  ],
+  "signupUsers": [
+    {
+      "name": "ee",
+      "email": "aeewa",
+      "password": "dd",
+      "phoneNumber": "55",
+      "id": 1
+    },
+    {
+      "name": "aman",
+      "email": "aman@1",
+      "password": "1234",
+      "phoneNumber": "1234",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "phoneNumber": "",
+      "id": 3
+    },
+    {
+      "name": "rutu",
+      "email": "rutu@1",
+      "password": "1234",
+      "phoneNumber": "789",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
